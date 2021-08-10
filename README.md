@@ -8,9 +8,7 @@
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-
-
+* **Como usar o Histograma para Data Science:** 
 ---
 
 
