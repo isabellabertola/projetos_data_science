@@ -1,1 +1,18 @@
-# projetos_data_science
+# Isabella Maria Bertola
+<sub>*Supervisora de Informações na Bureau Veritas </sub>
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/isabellabertola/)
+
+
+## Projetos:
+Veja os tutoriais publicados:
+
+* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+
+
+---
+
+
+
+
