@@ -8,7 +8,7 @@
 ## Projetos:
 Veja os tutoriais publicados:
 
-* ** Analisando os Dados do Airbnb:** https://bit.ly/3iA6YLA
+* **Analisando os Dados do Airbnb:** https://bit.ly/3iA6YLA
 ---
 
 
