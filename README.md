@@ -1,5 +1,5 @@
 # Isabella Maria Bertola
-<sub>*Supervisora de Informações no Bureau Veritas </sub>
+<sub>*Analista de Dados </sub>
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/isabellabertola/)
